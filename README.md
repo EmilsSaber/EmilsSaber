@@ -11,6 +11,3 @@ I am mobile developer
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EmilsSaber&theme=dark&hide_border=false)<br/>
-
-### Productive time card
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmilsSaber&theme=nord_bright&utcOffset=8)
